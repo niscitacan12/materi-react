@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.table {
+  border-collapse: collapse;
+  width: 50%;
+  margin-top: 20px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.custom-card {
+  margin-top: 20px; 
+} 

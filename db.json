@@ -1,0 +1,46 @@
+{
+  "products": [ 
+    { 
+      "id": 1, 
+      "title": "Hoodie Polos", 
+      "price": 250000 
+    }, 
+    { 
+      "id": 2, 
+      "title": "Baju Partai", 
+      "price": 150000 
+    } 
+  ], 
+  "produks": [
+    {
+      "id": 1,
+      "nama": "Mixer",
+      "img": "https://res.cloudinary.com/ruparupa-com/image/upload/w_500,h_500/f_auto,q_auto:eco/v1629992308/Products/10436587_1.jpg",
+      "price": 52000      
+    },
+    {
+      "id": 2,
+      "nama": "Pembersih Lantai",
+      "img": "https://www.alatkesehatan.id/wp-content/uploads/2016/08/kain-pel-lantai.jpg",
+      "price": 100000      
+    },
+    {
+      "id": 3,
+      "nama": "Blender",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NLOimbdUIAPAL7iOpQvPwM784PSreG-TuQ&usqp=CAU",
+      "price": 255000      
+    },
+    {
+      "id": 4,
+      "nama": "Panci",
+      "img": "https://signora.co.id/wp-content/uploads/2022/10/panci-vienna_360-2.jpg",
+      "price": 60000      
+    },
+    {
+      "id": 5,
+      "nama": "Magicom",
+      "img": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/11/10/d45937ec-aa4f-4738-b2b7-607f9289e2f2.jpg",
+      "price": 182000     
+    }
+  ]
+}
