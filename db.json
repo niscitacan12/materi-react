@@ -41,6 +41,66 @@
       "nama": "Magicom",
       "img": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/11/10/d45937ec-aa4f-4738-b2b7-607f9289e2f2.jpg",
       "price": 182000     
+    },
+    {
+      "id": 6,
+      "nama": "Laptop",
+      "img": "https://www.jktgadget.com/wp-content/uploads/2023/08/1.-Pilihan-Laptop-Gaming-Terbaik-2023-Khusus-Untukmu.jpg",
+      "price": 7899000     
+    },
+    {
+      "id": 7,
+      "nama": "Kamera",
+      "img": "https://images.tokopedia.net/img/cache/700/product-1/2019/10/26/3690906/3690906_d5ff855b-7a68-4d2b-982c-2644739c6fb3_700_700.jpg",
+      "price": 2000000     
+    },
+    {
+      "id": 8,
+      "nama": "Komputer",
+      "img": "https://www.elsecomputer.co.id/wp-content/uploads/2023/07/paket-komputer.jpg",
+      "price": 1500000     
+    },
+    {
+      "id": 9,
+      "nama": "Mesin Fotocopy",
+      "img": "https://img.ws.mms.shopee.co.id/8545a9f0d87350a5aa531e48a4b3585a",
+      "price": 22000000     
+    },
+    {
+      "id": 10,
+      "nama": "Kipas",
+      "img": "https://img.ws.mms.shopee.co.id/85de76bc7ee3d7b2a7d665fa42e44c31",
+      "price": 129000     
+    },
+    {
+      "id": 11,
+      "nama": "Tas",
+      "img": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/105/MTA-129805835/brd-44261_tas-ransel-wanita-3-resleting-backpack-korea-hitam-batam-kerja-sekolah-premium-minaba-ta325b5-import_full01-c8881c30.jpg",
+      "price": 48000     
+    },
+    {
+      "id": 12,
+      "nama": "Buku",
+      "img": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//100/MTA-7780437/sinar_dunia_buku_tulis_sinar_dunia_-_sidu_isi_38_full01_fbt0korp.jpg",
+      "price": 30000     
+    },
+    {
+      "id": 13,
+      "nama": "Pensil",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ85YtIsmcTn-fekDhedFeyvswGoSJk9lYxAQ&usqp=CAU",
+      "price": 33000     
+    },
+    {
+      "id": 14,
+      "nama": "Penggaris",
+      "img": "https://cdn.gramedia.com/uploads/picture_meta/2023/5/5/6fehvekubh8pktt6ltmgiq.jpg",
+      "price": 10000     
+    },
+    {
+      "id": 15,
+      "nama": "Penghapus",
+      "img": "https://siplah-oss.tokoladang.co.id/merchant/10672/product/padWvOt0MjPJ1xgeDMPTdyO5sMYReLpKHxRXxwAi.jpg",
+      "price": 16000     
     }
   ]
 }

@@ -6,12 +6,15 @@ const Produk = () => {
   const [posts, setPosts] = useState([]);
 
   const getAll = () => {
-    axios 
-    .get('http://localhost:3030/produks')
-    .then((res) => {
-      setPosts(res.data);
-    })
-  }
+    axios
+      .get('http://localhost:3030/produks')
+      .then((res) => {
+        setPosts(res.data);
+      })
+      .catch((error) => {
+        alert("terjadi kesalahan" + error);
+      }); 
+  };
 
   const getData = () => {
     var requestOptions = {
