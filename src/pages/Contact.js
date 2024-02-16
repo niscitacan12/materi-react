@@ -10,19 +10,20 @@ function Contact() {
     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
       <Card className="p-4" style={{ width: '50%', marginRight: '20px' }}>
         <FloatingLabel controlId="floatingName" label="Name" className="mb-3">
-          <Form.Control type="text" placeholder="" />
+          <Form.Control type="text" placeholder="" defaultValue="Niscita" />
         </FloatingLabel>
         <FloatingLabel controlId="floatingEmail" label="Email" className="mb-3">
-          <Form.Control type="email" placeholder="" />
+          <Form.Control type="email" placeholder="" defaultValue="citacita@gmail.com" />
         </FloatingLabel>
         <FloatingLabel controlId="floatingPhone" label="Number" className="mb-3">
-          <Form.Control type="text" placeholder="" />
+          <Form.Control type="text" placeholder="" defaultValue="089525763194" />
         </FloatingLabel>
         <FloatingLabel controlId="floatingMessage" label="Message">
           <Form.Control
             as="textarea"
             placeholder="Leave a message here"
             style={{ height: '100px' }}
+            defaultValue="Halo, saya tertarik dengan layanan Anda. Bisakah kita berdiskusi lebih lanjut?"
           />
         </FloatingLabel>
       </Card>

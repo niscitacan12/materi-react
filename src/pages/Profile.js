@@ -24,14 +24,18 @@ function Profile() {
                               defaultValue="niscita@gmail.com" readOnly 
                 />
               </FloatingLabel>
-              <FloatingLabel controlId="floatingAlamat" label="Alamat" className="mb-3">
-                <Form.Control type="text" placeholder="Your Alamat" 
-                              defaultValue="Kalitengah Mranggen, Demak, Jawa Tengah, RT01/01" readOnly 
-                />
-              </FloatingLabel>
               <FloatingLabel controlId="floatingNoTelp" label="No.Telp" className="mb-3">
                 <Form.Control type="text" placeholder="Your No.Telepon" 
                               defaultValue="089525763194" readOnly 
+                />
+              </FloatingLabel>
+              <FloatingLabel controlId="floatingAlamat" label="Alamat" className="mb-3">
+                <Form.Control 
+                  as="textarea" 
+                  placeholder="Your Alamat" 
+                  defaultValue="Kalitengah Mranggen, Demak, Jawa Tengah, RT01/01" 
+                  readOnly 
+                  style={{ minHeight: '100px' }}  
                 />
               </FloatingLabel>
             </Col>

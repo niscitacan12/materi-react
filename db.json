@@ -1,106 +1,79 @@
 {
-  "products": [ 
-    { 
-      "id": 1, 
-      "title": "Hoodie Polos", 
-      "price": 250000 
-    }, 
-    { 
-      "id": 2, 
-      "title": "Baju Partai", 
-      "price": 150000 
-    } 
-  ], 
+  "products": [
+    {
+      "id": "1",
+      "title": "Hoodie Polos",
+      "price": 250000
+    },
+    {
+      "id": "2",
+      "title": "Baju Partai",
+      "price": 150000
+    }
+  ],
   "produks": [
     {
-      "id": 1,
-      "nama": "Mixer",
-      "img": "https://res.cloudinary.com/ruparupa-com/image/upload/w_500,h_500/f_auto,q_auto:eco/v1629992308/Products/10436587_1.jpg",
-      "price": 52000      
+      "id": "1",
+      "nama": "Hoodie",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7F8eQH_XSahrdUiTvYXR_jRezWqP6O-E0Mw&usqp=CAU",
+      "detail": "Hoodie yang nyaman dan modis cocok untuk segala kesempatan. Terbuat dari bahan berkualitas tinggi, hoodie ini memberikan kehangatan dan tampilan yang fashionable. Sempurna untuk acara santai atau malam yang nyaman di dalam ruangan.",
+      "price": 920000
     },
     {
-      "id": 2,
-      "nama": "Pembersih Lantai",
-      "img": "https://www.alatkesehatan.id/wp-content/uploads/2016/08/kain-pel-lantai.jpg",
-      "price": 100000      
+      "id": "2",
+      "nama": "Sepatu",
+      "img": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/9/5/485e8474-a8d1-4d03-895f-9ef89c1635aa.jpg",
+      "detail": "Sepatu dengan desain stylish dan nyaman untuk setiap langkah. Dibuat dengan material berkualitas tinggi, memberikan keseimbangan yang optimal antara gaya dan kenyamanan. Cocok untuk berbagai kesempatan, baik formal maupun santai.",
+      "price": 199000
     },
     {
-      "id": 3,
-      "nama": "Blender",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NLOimbdUIAPAL7iOpQvPwM784PSreG-TuQ&usqp=CAU",
-      "price": 255000      
+      "id": "3",
+      "nama": "Tablet",
+      "img": "https://cdn.idntimes.com/content-images/community/2022/10/ezgif-1-bba17d3c5f-5633117cf3d326790e14b142a4bdf5be-a82ad61659c97b8a3fb958329b02bbe5_600x400.jpg",
+      "detail": "Tablet ini merupakan perangkat canggih dengan layar sentuh yang responsif, cocok untuk berbagai kebutuhan seperti pekerjaan, belajar, atau hiburan. Dilengkapi dengan spesifikasi tinggi, termasuk prosesor kuat, kapasitas penyimpanan besar, dan kamera berkualitas. Desain yang ringkas dan portabilitas tinggi membuatnya mudah dibawa-bawa. Nikmati pengalaman menggunakan teknologi terkini dengan Tablet ini.",
+      "price": 9000000
     },
     {
-      "id": 4,
-      "nama": "Panci",
-      "img": "https://signora.co.id/wp-content/uploads/2022/10/panci-vienna_360-2.jpg",
-      "price": 60000      
-    },
-    {
-      "id": 5,
-      "nama": "Magicom",
-      "img": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/11/10/d45937ec-aa4f-4738-b2b7-607f9289e2f2.jpg",
-      "price": 182000     
-    },
-    {
-      "id": 6,
-      "nama": "Laptop",
-      "img": "https://www.jktgadget.com/wp-content/uploads/2023/08/1.-Pilihan-Laptop-Gaming-Terbaik-2023-Khusus-Untukmu.jpg",
-      "price": 7899000     
-    },
-    {
-      "id": 7,
+      "id": "7",
       "nama": "Kamera",
       "img": "https://images.tokopedia.net/img/cache/700/product-1/2019/10/26/3690906/3690906_d5ff855b-7a68-4d2b-982c-2644739c6fb3_700_700.jpg",
-      "price": 2000000     
+      "detail": "Kamera ini dilengkapi memori integral untuk kecepatan lebih jauh, ini bagus untuk memeriksa detail dan fokus. Dapat memperbesar subjek, membidik close-up.",
+      "price": 2000000
     },
     {
-      "id": 8,
+      "id": "8",
       "nama": "Komputer",
       "img": "https://www.elsecomputer.co.id/wp-content/uploads/2023/07/paket-komputer.jpg",
-      "price": 1500000     
+      "detail": "Komputer ini dilengkapi dengan PC nya juga yang dapat menyimpan dan menerima perangkat dan diproses datanya melalui PC ini sendiri. Ini masih bagus dan bisa digunakan.",
+      "price": 1500000
     },
     {
-      "id": 9,
+      "id": "9",
       "nama": "Mesin Fotocopy",
       "img": "https://img.ws.mms.shopee.co.id/8545a9f0d87350a5aa531e48a4b3585a",
-      "price": 22000000     
+      "detail": "Mesin Cuci memiliki kapasitas 200 lembar, dapat mengeprint, scan, send. Spesifikasi standar bisa untuk usaha.",
+      "price": 22000000
     },
     {
-      "id": 10,
-      "nama": "Kipas",
-      "img": "https://img.ws.mms.shopee.co.id/85de76bc7ee3d7b2a7d665fa42e44c31",
-      "price": 129000     
-    },
-    {
-      "id": 11,
-      "nama": "Tas",
+      "detail": "Ada beberapa koleksi tas, ini ada tas selempang dengan rantai untuk dipegang untuk wanita.",
+      "id": "11",
       "img": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/105/MTA-129805835/brd-44261_tas-ransel-wanita-3-resleting-backpack-korea-hitam-batam-kerja-sekolah-premium-minaba-ta325b5-import_full01-c8881c30.jpg",
-      "price": 48000     
+      "nama": "Tas",
+      "price": 480000
     },
     {
-      "id": 12,
+      "id": "12",
       "nama": "Buku",
       "img": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//100/MTA-7780437/sinar_dunia_buku_tulis_sinar_dunia_-_sidu_isi_38_full01_fbt0korp.jpg",
-      "price": 30000     
+      "detail": "Buku ini berukuran F4 buku tulis dengan lembar 38 lembar, cocok untuk anak sekolah. Dengan gambar sampul yang cantik dengan kualitas terbaik.",
+      "price": 300000
     },
     {
-      "id": 13,
-      "nama": "Pensil",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ85YtIsmcTn-fekDhedFeyvswGoSJk9lYxAQ&usqp=CAU",
-      "price": 33000     
-    },
-    {
-      "id": 14,
-      "nama": "Penggaris",
-      "img": "https://cdn.gramedia.com/uploads/picture_meta/2023/5/5/6fehvekubh8pktt6ltmgiq.jpg",
-      "price": 10000     
-    },
-    {
-      "id": 15,
-      "nama": "Penghapus",
-      "img": "https://siplah-oss.tokoladang.co.id/merchant/10672/product/padWvOt0MjPJ1xgeDMPTdyO5sMYReLpKHxRXxwAi.jpg",
-      "price": 16000     
+      "id": "0635",
+      "nama": "Termometer",
+      "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1658193553/attached_image/berbagai-jenis-termometer-dan-cara-mengukur-suhu-dengan-tepat.jpg",
+      "detail": "Termometer dengan layar LCD yang mudah dibaca. Didesain untuk mengukur suhu tubuh dengan akurasi tinggi. Cocok digunakan di rumah, kantor, atau di tempat umum.",
+      "price": "5870000"
     }
   ]
 }

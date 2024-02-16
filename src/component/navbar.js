@@ -28,6 +28,12 @@ function BasicExample() {
               <Nav.Link href="/pesan">
                 Contact
               </Nav.Link>
+              <Nav.Link href="/tambah_data">
+                Tambah
+              </Nav.Link>
+              <Nav.Link href="/detail_product/:id_product">
+                Detail Materi
+              </Nav.Link>
               <NavDropdown title="Profile" id="basic-nav-dropdown">
                 <NavDropdown.Item href="profile/user">
                   Profile
